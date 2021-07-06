@@ -69,7 +69,7 @@ explore some more advanced concepts like **context**, **object orientation**,
 and **inheritance** that will give you tools to write more expressive programs
 and understand the language at a deeper level. You'll also start prepping for
 your first project by working on some smaller practice exercises to get practice
-working common features of on single-page applications.
+working on common features of single-page applications.
 
 **Total Assignments: (18 plus optionals)**
 
