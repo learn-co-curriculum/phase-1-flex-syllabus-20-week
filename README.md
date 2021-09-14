@@ -76,6 +76,7 @@ working on common features of single-page applications.
 - Combining the Three Pillars (2)
 - Additional Practice: JavaScript (9)
   - ⭐️ Additional Practice: Toy Tale
+- Algorithmic Problem Solving (10)
 - Context in JavaScript (7)
   - ⭐️ Context in JavaScript Quiz
 - Object-Oriented JavaScript (15 - optional)
