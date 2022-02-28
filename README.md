@@ -59,7 +59,7 @@ a remote data source, like a web API).
 - JavaScript Events (10)
   - ⭐️ JavaScript Events Quiz
 - Communicating with the Server (17)
-  - ⭐️ Communicating with the Server
+  - ⭐️ Communicating with the Server Quiz
 
 ## Week 3
 
@@ -74,7 +74,7 @@ working on common features of single-page applications.
 
 - Combining the Three Pillars (2)
 - Additional Practice: JavaScript (9)
-  - ⭐️ Additional Practice: Toy Tale
+  - ⭐️ Additional Practice: JavaScript Quotes
 - Algorithmic Problem Solving (10)
   - ⭐️ Algorithmic Problem Solving Quiz
 - Context in JavaScript (7)
