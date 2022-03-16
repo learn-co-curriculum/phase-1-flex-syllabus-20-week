@@ -79,10 +79,9 @@ working on common features of single-page applications.
   - ⭐️ Algorithmic Problem Solving Quiz
 - Context in JavaScript (7)
   - ⭐️ Context in JavaScript Quiz
-- Object-Oriented JavaScript (15 - optional)
-- JavaScript Inheritance (7 - optional)
-- JavaScript Project Prep
-- Additional Practice: HTML Forms and Modern Elements (8 - optional)
+- (Optional) Object-Oriented JavaScript (15)
+- (Optional) JavaScript Inheritance (7)
+- (Optional) Additional Practice: HTML Forms and Modern Elements (8)
 
 ## Week 4
 
